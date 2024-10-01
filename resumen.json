@@ -1,0 +1,10 @@
+
+{
+    "identificador": 1,
+    "origen" : "Tienda1",
+    "destino": "Fundacion1",
+    "fechaEnvio": "04/08/2024",
+    "fechaEntrega": "05/08/2024",
+    "detalles":[{"nombre":"producto1", "cantidad": 4},
+                {"nombre":"producto2", "cantidad": 5}]
+}

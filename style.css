@@ -1,0 +1,27 @@
+body{
+background-color: gray;
+
+}
+
+.logo img{
+    height: 337.5px;
+    width: 270px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.Datos {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+#nombre{
+    font-style: italic;
+
+}
